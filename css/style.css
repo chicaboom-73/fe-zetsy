@@ -18,3 +18,27 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+	font-size: 5rem;
+	color: rgb(175, 187, 184);
+}
+h2{
+	font-size: 2rem;
+	color: rgb(175, 187, 184);
+}
+img{
+	border: 5px rgb(152,173,166) solid;
+}
+#featured a{
+	color: #1783bb;
+	text-decoration: none;
+
+}
+footer{
+	text-align: right;
+	font-size: .8rem;
+
+}
+#featured p{
+	color:gray;
+}
